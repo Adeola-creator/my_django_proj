@@ -1,0 +1,8 @@
+_pycache_/
+*.py[cod]
+db.sqlite3
+settings.py
+node_modules
+.DS_Store
+.idea
+media
